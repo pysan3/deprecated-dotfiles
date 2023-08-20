@@ -1,6 +1,6 @@
 # Deprecated Dotfiles
 
-> Deprecated dotfiles from [https://git.esslab.jp/takuto/dotfiles](https://git.esslab.jp/takuto/dotfiles)
+> Deprecated dotfiles from [https://github.com/pysan3/dotfiles](https://github.com/pysan3/dotfiles)
 
 ## Checkboxes [ ]
 
